@@ -1,0 +1,83 @@
+body
+{
+	margin:auto;
+}
+
+#pudelko
+{
+	width:100%;
+}
+
+#logo
+{
+	height:25%;
+	background-color:#CCCCCC;
+}
+
+#logowanie
+{
+	float:left;
+	height:70%;
+	width:19%;
+	background-color:#DDDDDD;
+	font-size:25px;
+	padding-left:13px;
+}
+
+#tresc
+{
+	float:right;
+	height:70%;
+	width:80%;
+	background-color:#EEEEEE;
+}
+
+#stopka
+{
+	clear:both;
+	height:4%;
+	background-color:#CCCCCC;
+	text-align:center;
+	padding-top:7;
+}
+
+form
+{
+	margin-left:20;
+}
+
+h5
+{
+	font-weight:300;
+	position:absolute; right:50; top:10;
+	font-size:25px;
+}
+
+p.tytul
+{
+	font-size:70px;
+	position:absolute; left:120; top:0;
+}
+
+p.art1
+{
+	margin-left:10px;
+	font-size:17px;
+}
+
+p.art2
+{
+	margin-left:10px;
+	font-size:20px;
+}
+
+input
+{
+	height:35px;
+	width:150px;
+}
+
+a:visited
+{
+	color:black;
+}

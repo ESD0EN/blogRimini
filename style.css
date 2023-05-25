@@ -1,0 +1,102 @@
+body
+{
+	margin:auto;
+}
+
+#pudelko
+{
+	width:100%;
+}
+
+#logo
+{
+	height:25%;
+	background-color:#CCCCCC;
+}
+
+#logowanie
+{
+	height:35%;
+	float:left;
+	width:50%;
+	background-color:#DDDDDD;
+	font-size:25px;
+	text-align:center;
+}
+
+#szukanie
+{
+	height:35%;
+	float:right;
+	width:50%;
+	background-color:#DDDDDD;
+	font-size:25px;
+	text-align:center;
+}
+
+#admin
+{
+	clear:both;
+	padding-left:10px;
+	height:35%;
+	background-color:#EEEEEE;
+	font-size:25px;
+}
+
+#tresc
+{
+	clear:both;
+	padding-left:10px;
+	height:auto;
+	background-color:#EEEEEE;
+}
+
+#stopka
+{
+	clear:both;
+	height:4%;
+	background-color:#CCCCCC;
+	text-align:center;
+	padding-top:7;
+}
+
+form
+{
+	margin-left:20;
+}
+
+h5
+{
+	font-weight:300;
+	position:absolute; right:50; top:10;
+	font-size:25px;
+}
+
+p.tytul
+{
+	font-size:70px;
+	position:absolute; left:120;
+}
+
+p.teksty
+{
+	margin-left:10px;
+	font-size:30px;
+}
+
+input
+{
+	height:35px;
+	width:150px;
+}
+
+a:visited, a:link
+{
+	color:black;
+}
+
+.obrazek
+{
+	width:400;
+	height:250;
+}
